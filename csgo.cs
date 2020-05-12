@@ -120,7 +120,7 @@ namespace blazedumper {
         public const Int32 dwGameRulesProxy = 0x5260A5C;
         public const Int32 dwGetAllClasses = 0xD55F2C;
         public const Int32 dwGlobalVars = 0x589AD0;
-        public const Int32 dwGlowObjectManager = 0x528B8B8;
+        public const Int32 dwGlowObjectManager = 0x528B8A0;
         public const Int32 dwInput = 0x5195090;
         public const Int32 dwInterfaceLinkList = 0x8F9EE4;
         public const Int32 dwLocalPlayer = 0xD2FB94;
